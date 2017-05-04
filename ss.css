@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*border: 1px solid black;*/
+}
+
+.wraper {
+  width: 960px;
+  height: 1400px;
+  margin: 20px auto;
+  background: #c9c9c9;
+
+
+}
+
+.big-set {
+  width: 900px;
+  height: 900px;
+  margin: 20px auto;
+
+}
+
+.small-set {
+  width: 900px;
+  margin: 20px auto;
+  height: 400px;
+}
+
+.block {
+  width: 275px;
+  height: 180px;
+  margin: 10px 12px;
+  float: left;
+  text-align: center;
+
+
+}
+
+.small {
+  height: 178px;
+}
